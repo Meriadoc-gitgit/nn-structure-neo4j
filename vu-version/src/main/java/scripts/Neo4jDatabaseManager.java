@@ -5,7 +5,6 @@ import org.neo4j.procedure.*;
 
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Stream;
 
 public class Neo4jDatabaseManager {
 
