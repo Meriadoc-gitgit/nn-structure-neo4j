@@ -1,4 +1,3 @@
-scripts/DatabaseManager$MapResult.class
+scripts/Neo4jDatabaseManager.class
 Main.class
-scripts/DatabaseManager.class
 scripts/NeuralNetworkManager.class
